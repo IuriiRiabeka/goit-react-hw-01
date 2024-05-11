@@ -1,4 +1,4 @@
-import "./Transactionmodule.css"
+import "./TransactionHistory.css"
 const TransactionHistory = ({ items }) => {
   return (<table className="table-container"> 
     <thead className="table-head">

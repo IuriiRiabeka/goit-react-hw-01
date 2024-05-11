@@ -1,7 +1,7 @@
 ul {
   list-style: none;
 }
-.fliends-list {
+.friends-list {
   display: flex;
   flex-direction: row;
   justify-content: center;
